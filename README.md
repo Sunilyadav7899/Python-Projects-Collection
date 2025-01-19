@@ -19,6 +19,9 @@ Welcome to my repository of Python projects! This collection features a variety 
 5. [Invoice Generator] 
    A Python script to generate invoices for small businesses.
 
+6. [Rent Calculator]
+   A Python program to calculate individual contributions to shared rent, food, and electricity expenses in a flat.
+
 ## How to Use
 
 1. Clone the repository
